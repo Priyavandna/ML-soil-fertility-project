@@ -1,5 +1,5 @@
 # Soil-Fertility-Prediction-Using-Machine-Learning
-##preview
+# preview
 ![image](https://github.com/user-attachments/assets/c5f6509a-6b17-4901-bcd7-891546a8d0e3)
 
 ![image](https://github.com/user-attachments/assets/7c95c7d3-26ef-4ca6-8110-f7e932a7eebc)
